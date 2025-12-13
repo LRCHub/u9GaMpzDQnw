@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "君が好きだと叫びたい",
+  "base_artist": "BAAD",
+  "createdAt": "2025-12-13T06:42:41.147555Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君が好きだと叫びたい",
+      "artist": "BAAD",
+      "has_synced": true,
+      "path": "select/01_君が好きだと叫びたい_BAAD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君が好きだと叫びたい",
+      "artist": "Alf",
+      "has_synced": false,
+      "path": "select/02_君が好きだと叫びたい_Alf.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君が好きだと叫びたい",
+      "artist": "D-51",
+      "has_synced": true,
+      "path": "select/03_君が好きだと叫びたい_D-51.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君が好きだと叫びたい - Kimi Ga Sukida To Sakebitai",
+      "artist": "D-51",
+      "has_synced": true,
+      "path": "select/04_君が好きだと叫びたい_-_Kimi_Ga_Sukida_To_Sakebitai_D-51.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "君が好きだと叫びたい",
+      "artist": "BAAD",
+      "has_synced": true,
+      "path": "select/05_君が好きだと叫びたい_BAAD.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "君が好きだと叫びたい",
+      "artist": "BAAD",
+      "has_synced": false,
+      "path": "select/06_君が好きだと叫びたい_BAAD.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SLAM DUNK - 君が好きだと叫びたい",
+      "artist": "Ty Music Channel",
+      "has_synced": true,
+      "path": "select/07_SLAM_DUNK_-_君が好きだと叫びたい_Ty_Music_Channel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "君が好きだと叫びたい(用户投票赏/ユーザー投票賞)",
+      "artist": "BAAD",
+      "has_synced": true,
+      "path": "select/08_君が好きだと叫びたい(用户投票赏_ユーザー投票賞)_BAAD.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "君が好きだと叫びたい",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/09_君が好きだと叫びたい_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "君が好きだと叫びたい",
+      "artist": "BAAD",
+      "has_synced": true,
+      "path": "select/10_君が好きだと叫びたい_BAAD.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "君が好きだと叫びたい",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/11_君が好きだと叫びたい_Various.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "君が好きだと叫びたい(オリジナル·カラオケ)",
+      "artist": "BAAD",
+      "has_synced": true,
+      "path": "select/12_君が好きだと叫びたい(オリジナル·カラオケ)_BAAD.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "君が好きだと叫びたい",
+      "artist": "日本ACG",
+      "has_synced": false,
+      "path": "select/13_君が好きだと叫びたい_日本ACG.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "君が好きだと叫びたい",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/14_君が好きだと叫びたい_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "君が好きだと叫びたい",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/15_君が好きだと叫びたい_Various_Artists.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君が好きだと叫びたい",
+      "artist": "BAAD",
+      "has_synced": false,
+      "path": "select/pl_01_君が好きだと叫びたい_BAAD.txt"
+    }
+  ]
+}
